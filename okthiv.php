@@ -110,12 +110,12 @@
             'eredmeny' => '70%',
         ],
         [
-            'nev' => 'történelem',  //francia nyelv
+            'nev' => 'történelem',  
             'tipus' => 'közép',
             'eredmeny' => '80%',
         ],
          [
-            'nev' => 'francia nyelv',  //francia nyelv
+            'nev' => 'francia nyelv',  
             'tipus' => 'közép',
             'eredmeny' => '81%',
         ],
@@ -209,7 +209,7 @@
         [
             'nev' => 'történelem',
             'tipus' => 'közép',
-            'eredmeny' => '80%',  // 80
+            'eredmeny' => '80%',  
         ],
         [
             'nev' => 'matematika',
